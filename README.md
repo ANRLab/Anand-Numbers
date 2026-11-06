@@ -27,8 +27,8 @@ Zenodo DOI:
 
 10.5281/zenodo.23874682
 
-Repository Contents
-Research paper
-Python verification code
-OEIS submission draft
-Supplementary notes
+1-Repository Contents,
+2-Research paper,
+3-Python verification code,
+4-OEIS submission draft,
+5-Supplementary notes. 
